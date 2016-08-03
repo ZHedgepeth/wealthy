@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 h1 {
   color: red;
   font-size: 25px;
@@ -8,4 +8,15 @@ body {
   font-size: 24px;
   color: blue;
 }
->>>>>>> version1
+
+p.intro {
+  color: purple;
+  font-size: 12px;
+  font-family: fantasy;
+  width: 90%;
+}
+
+.important {
+  color: green;
+  font-weight: 200;
+}
